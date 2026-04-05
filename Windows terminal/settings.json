@@ -2,11 +2,10 @@
     "$help": "https://aka.ms/terminal-documentation",
     "$schema": "https://aka.ms/terminal-profiles-schema",
     "actions": [],
-    "copyFormatting": "none", // "none", "html", "rtf"
+    "copyFormatting": "none",
     "copyOnSelect": false,
     "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
     "focusFollowMouse": true,
-    "launchMode": "focus", // "default", "maximized", "maximizedFocus", "fullscreen"
     "keybindings": 
     [
         {
@@ -22,6 +21,7 @@
             "keys": "alt+shift+d"
         }
     ],
+    "launchMode": "focus",
     "newTabMenu": 
     [
         {
@@ -30,11 +30,11 @@
     ],
     "profiles": 
     {
-        "defaults": // Put settings here to apply to all profiles.
+        "defaults": 
         {
             "background": "#1F1F1F",
             "colorScheme": "Cisarua",
-            "cursorColor": "#F9F1A5",
+            "cursorColor": "#4C5C3F",
             "experimental.retroTerminalEffect": false,
             "font": 
             {
@@ -43,8 +43,7 @@
                 "weight": "normal"
             },
             "foreground": null,
-            "selectionBackground": "#4C5C3F",
-            "cursorcolor": "#4C5C3F"
+            "selectionBackground": "#4C5C3F"
         },
         "list": 
         [
@@ -118,27 +117,30 @@
             }
         ]
     },
-    "schemes": [
+    "schemes": 
+    [
         {
-            "name": "Cisarua",
             "background": "#1F1F1F",
-            "black": "#262e1f",
-            "blue": "#3f4c5c",
-            "brightBlack": "#262e1f",
-            "brightBlue": "#4C5C3F",
-            "brightCyan": "#4C5C3F",
-            "brightGreen": "#4C5C3F",
+            "black": "#67816B",
+            "blue": "#3F4C5C",
+            "brightBlack": "#67816B",
+            "brightBlue": "#3F4C5C",
+            "brightCyan": "#3F5C5B",
+            "brightGreen": "#7A9464",
             "brightPurple": "#423560",
-            "brightRed": "#5c3f4c",
+            "brightRed": "#5C3F4C",
             "brightWhite": "#FFFFFF",
-            "brightYellow": "#4C5C3F",
-            "cyan": "#4C5C3F",
-            "foreground": "#F9F1A5",
-            "green": "#4C5C3F",
+            "brightYellow": "#EBC17A",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#3F5C5B",
+            "foreground": "#4C5C3F",
+            "green": "#7A9464",
+            "name": "Cisarua",
             "purple": "#423560",
-            "red": "#5c3f4c",
+            "red": "#5C3F4C",
+            "selectionBackground": "#FFFFFF",
             "white": "#FFFFFF",
-            "yellow": "#4C5C3F"
+            "yellow": "#EBC17A"
         }
     ],
     "themes": []
