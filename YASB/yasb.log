@@ -1,0 +1,1144 @@
+2026-04-05 18:00:09,671 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:00:09,672 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:00:09,672 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:00:09,809 [INFO] [MainThread] [root/config.py:59]: Created default config file at C:\Users\Weda\.config\yasb\config.yaml
+2026-04-05 18:00:09,835 [INFO] [MainThread] [root/config.py:73]: Created default stylesheet at C:\Users\Weda\.config\yasb\styles.css
+2026-04-05 18:00:11,376 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 18:00:11,423 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 18:00:12,379 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 18:00:12,379 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 18:00:12,380 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 18:00:12,380 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 18:00:12,381 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 18:00:13,011 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-9e69b338-30de-11f1-84ef-8f593e24d010
+2026-04-05 18:00:13,050 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 18:00:13,221 [INFO] [MainThread] [root/open_meteo.py:138]: No saved location for open_meteo. Awaiting user setup.
+2026-04-05 18:00:13,227 [INFO] [MainThread] [root/open_meteo.py:138]: No saved location for open_meteo. Awaiting user setup.
+2026-04-05 18:04:20,676 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:04:20,677 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:04:20,678 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:04:20,678 [ERROR] [MainThread] [root/main.py:75]: Another instance of the YASB is already running.
+2026-04-05 18:04:22,929 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:04:22,930 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:04:22,930 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:04:22,930 [ERROR] [MainThread] [root/main.py:75]: Another instance of the YASB is already running.
+2026-04-05 18:04:42,134 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:06:26,261 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:06:26,273 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 18:06:26,374 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 18:06:26,374 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 18:06:26,385 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 18:06:26,741 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 18:06:26,742 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 18:06:26,744 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 18:06:27,028 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:06:27,030 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:06:27,031 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:06:28,473 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 18:06:28,527 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 18:06:28,986 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 18:06:28,987 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 18:06:28,987 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 18:06:28,988 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 18:06:28,988 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 18:06:28,989 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-7ee368ce-30df-11f1-9626-8f593e24d010
+2026-04-05 18:06:29,022 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 18:09:23,403 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:09:23,434 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 18:09:23,542 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 18:09:23,542 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 18:09:23,551 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 18:09:24,050 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 18:09:24,070 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 18:09:24,151 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 18:09:24,576 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:09:24,577 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:09:24,577 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:09:25,438 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 18:09:25,488 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 18:09:26,025 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 18:09:26,026 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 18:09:26,027 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 18:09:26,033 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 18:09:26,033 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 18:09:26,114 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-e8696a22-30df-11f1-9853-8f593e24d010
+2026-04-05 18:09:26,166 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 18:09:28,321 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:09:28,341 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 18:09:28,458 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 18:09:28,458 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 18:09:28,467 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 18:09:28,938 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 18:09:28,953 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 18:09:28,967 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 18:09:29,218 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:09:29,218 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:09:29,219 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:09:29,883 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 18:09:29,933 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 18:09:30,614 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 18:09:30,616 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 18:09:30,618 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 18:09:30,624 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 18:09:30,625 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 18:09:30,733 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-eb2667f6-30df-11f1-a148-8f593e24d010
+2026-04-05 18:09:30,973 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 18:09:42,152 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:09:42,171 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 18:09:42,280 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 18:09:42,280 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 18:09:42,285 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 18:09:42,712 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 18:09:42,723 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 18:09:42,739 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 18:09:42,992 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:09:42,992 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:09:42,993 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:09:43,694 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 18:09:43,755 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 18:09:44,624 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 18:09:44,625 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 18:09:44,626 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 18:09:44,634 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 18:09:44,635 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 18:09:44,782 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-f37f714f-30df-11f1-8bf6-8f593e24d010
+2026-04-05 18:09:44,848 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 18:10:25,508 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:10:25,545 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 18:10:25,660 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 18:10:25,660 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 18:10:25,669 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 18:10:26,113 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 18:10:26,200 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 18:10:26,207 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 18:10:26,400 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:10:26,401 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:10:26,401 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:10:27,125 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 18:10:27,179 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 18:10:27,833 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 18:10:27,833 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 18:10:27,834 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 18:10:27,835 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 18:10:27,836 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 18:10:27,946 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-0d40885c-30e0-11f1-bffc-8f593e24d010
+2026-04-05 18:10:28,048 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 18:10:29,646 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:10:29,658 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 18:10:29,762 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 18:10:29,763 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 18:10:29,768 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 18:10:30,180 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 18:10:30,189 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 18:10:30,203 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 18:10:30,470 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:10:30,471 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:10:30,471 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:10:31,253 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 18:10:31,313 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 18:10:31,810 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 18:10:31,810 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 18:10:31,810 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 18:10:31,812 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 18:10:31,812 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 18:10:32,029 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-0f9f5fb4-30e0-11f1-81b2-8f593e24d010
+2026-04-05 18:10:32,127 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 18:10:33,747 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:10:33,765 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 18:10:33,877 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 18:10:33,877 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 18:10:33,885 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 18:10:34,343 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 18:10:34,353 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 18:10:34,366 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 18:10:34,667 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:10:34,667 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:10:34,668 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:10:35,200 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 18:10:35,248 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 18:10:35,781 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 18:10:35,781 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 18:10:35,782 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 18:10:35,783 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 18:10:35,783 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 18:10:35,783 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-11fd50eb-30e0-11f1-b164-8f593e24d010
+2026-04-05 18:10:36,020 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 18:15:18,723 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:15:18,756 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 18:15:18,868 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 18:15:18,868 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 18:15:18,881 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 18:15:19,516 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 18:15:19,526 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 18:15:19,550 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 18:15:19,698 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:15:19,698 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:15:19,699 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:15:20,855 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 18:15:20,906 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 18:15:21,414 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 18:15:21,414 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 18:15:21,414 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 18:15:21,416 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 18:15:21,416 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 18:15:21,416 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-bc3d670e-30e0-11f1-9aec-8f593e24d010
+2026-04-05 18:15:21,566 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 18:15:26,810 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:15:26,829 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 18:15:26,944 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 18:15:26,944 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 18:15:26,949 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 18:15:27,351 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 18:15:27,353 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 18:15:27,354 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 18:15:27,611 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:15:27,614 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:15:27,615 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:15:28,559 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 18:15:28,614 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 18:15:29,140 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 18:15:29,141 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 18:15:29,141 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 18:15:29,143 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 18:15:29,144 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 18:15:29,226 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-c0d866bd-30e0-11f1-8008-8f593e24d010
+2026-04-05 18:15:29,268 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 18:16:05,625 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:16:05,655 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 18:16:05,768 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 18:16:05,768 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 18:16:05,775 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 18:16:06,382 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 18:16:06,388 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 18:16:06,406 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 18:16:06,460 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:16:06,460 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:16:06,461 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:16:07,167 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 18:16:07,224 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 18:16:08,104 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 18:16:08,106 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 18:16:08,107 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 18:16:08,108 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 18:16:08,108 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 18:16:08,291 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-d8121a3a-30e0-11f1-837b-8f593e24d010
+2026-04-05 18:16:08,337 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 18:17:25,294 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-d8121a3a-30e0-11f1-837b-8f593e24d010
+2026-04-05 18:17:50,005 [DEBUG] [MainThread] [root/utilities.py:262]: Failed to get version info for C:\Users\Weda\scoop\apps\komorebi\0.1.40\komorebi-shortcuts.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-04-05 18:21:50,475 [DEBUG] [MainThread] [root/utilities.py:262]: Failed to get version info for C:\Users\Weda\scoop\apps\komorebi\0.1.40\komorebi-shortcuts.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-04-05 18:24:53,182 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:24:53,207 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 18:24:53,313 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 18:24:53,313 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 18:24:53,322 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 18:24:53,775 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 18:24:53,777 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 18:24:53,780 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 18:24:54,019 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:24:54,021 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:24:54,022 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:24:55,509 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 18:24:55,565 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 18:24:56,590 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 18:24:56,591 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 18:24:56,592 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 18:24:56,595 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 18:24:56,596 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 18:24:56,813 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-13127b1e-30e2-11f1-bcbd-8f593e24d010
+2026-04-05 18:24:56,857 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 18:24:57,171 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-13127b1e-30e2-11f1-bcbd-8f593e24d010
+2026-04-05 18:26:32,340 [WARNING] [Dummy-7] [root/event_listener.py:96]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2026-04-05 18:26:32,340 [INFO] [Dummy-7] [root/event_listener.py:108]: Attempting to reconnect to Komorebi...
+2026-04-05 18:26:35,347 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-13127b1e-30e2-11f1-bcbd-8f593e24d010
+2026-04-05 18:30:03,849 [DEBUG] [MainThread] [root/utilities.py:262]: Failed to get version info for C:\Users\Weda\scoop\apps\komorebi\0.1.40\komorebi-shortcuts.exe: (1813, 'GetFileVersionInfo:GetFileVersionInfoSize', 'The specified resource type cannot be found in the image file.')
+2026-04-05 18:32:13,104 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-13127b1e-30e2-11f1-bcbd-8f593e24d010
+2026-04-05 18:38:40,637 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 18:38:40,640 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 18:38:40,645 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 18:46:15,752 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:46:15,753 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:46:15,753 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:46:17,041 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 18:46:17,085 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 18:46:17,877 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 18:46:17,878 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 18:46:17,878 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 18:46:17,879 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 18:46:17,879 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 18:46:18,216 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-0ec742c8-30e5-11f1-96a7-00155d2b9fe2
+2026-04-05 18:46:18,234 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 18:46:54,592 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-0ec742c8-30e5-11f1-96a7-00155d2b9fe2
+2026-04-05 18:53:37,728 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:53:37,763 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 18:53:37,873 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 18:53:37,873 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 18:53:37,884 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 18:53:38,293 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 18:53:38,296 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 18:53:38,301 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 18:53:39,319 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:53:39,321 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:53:39,322 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:53:40,275 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 18:53:40,331 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 18:53:41,289 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 18:53:41,290 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 18:53:41,290 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 18:53:41,294 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 18:53:41,295 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 18:53:42,075 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-1712857a-30e6-11f1-8e42-00155d2b9fe2
+2026-04-05 18:53:42,128 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 18:53:42,336 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-1712857a-30e6-11f1-8e42-00155d2b9fe2
+2026-04-05 18:53:53,493 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:53:53,507 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 18:53:53,610 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 18:53:53,610 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 18:53:53,616 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 18:53:54,040 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 18:53:54,043 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 18:53:54,047 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 18:53:54,629 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:53:54,631 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:53:54,631 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:53:55,589 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 18:53:55,650 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 18:53:56,765 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 18:53:56,767 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 18:53:56,768 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 18:53:56,770 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 18:53:56,770 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 18:53:56,922 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-204c3cf1-30e6-11f1-a45e-00155d2b9fe2
+2026-04-05 18:53:57,029 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 18:53:57,253 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-204c3cf1-30e6-11f1-a45e-00155d2b9fe2
+2026-04-05 18:54:07,666 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:54:07,684 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 18:54:07,796 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 18:54:07,796 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 18:54:07,800 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 18:54:08,263 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 18:54:08,273 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 18:54:08,278 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 18:54:08,747 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:54:08,748 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:54:08,748 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:54:09,705 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 18:54:09,772 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 18:54:10,884 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 18:54:10,886 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 18:54:10,887 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 18:54:10,891 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 18:54:10,891 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 18:54:11,065 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-28b6da81-30e6-11f1-babf-00155d2b9fe2
+2026-04-05 18:54:11,160 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 18:54:11,391 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-28b6da81-30e6-11f1-babf-00155d2b9fe2
+2026-04-05 18:57:21,542 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:57:21,593 [ERROR] [MainThread] [root/bar_manager.py:72]: Error loading config: while scanning a simple key
+  in "C:\Users\Weda\.config\yasb\config.yaml", line 70, column 7
+could not find expected ':'
+  in "C:\Users\Weda\.config\yasb\config.yaml", line 71, column 3
+2026-04-05 18:57:24,618 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:57:24,626 [ERROR] [MainThread] [root/bar_manager.py:72]: Error loading config: while scanning a simple key
+  in "C:\Users\Weda\.config\yasb\config.yaml", line 70, column 7
+could not find expected ':'
+  in "C:\Users\Weda\.config\yasb\config.yaml", line 71, column 3
+2026-04-05 18:57:27,213 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:57:27,240 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 18:57:27,349 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 18:57:27,349 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 18:57:27,362 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 18:57:27,859 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 18:57:27,864 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 18:57:27,867 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 18:57:28,418 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:57:28,419 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:57:28,421 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:57:29,704 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 18:57:29,828 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 18:57:30,836 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'home'
+2026-04-05 18:57:31,076 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 18:57:31,078 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 18:57:31,079 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 18:57:31,080 [ERROR] [MainThread] [root/widget_builder.py:111]: Failed to validate widget(s) due to invalid options  - home
+      menu_labels:
+      - Input should be a valid dictionary or instance of MenuLabelsConfig
+      
+2026-04-05 18:57:31,167 [INFO] [Dummy-5] [root/event_listener.py:55]: Created named pipe yasb-a009b2d7-30e6-11f1-8ef3-00155d2b9fe2
+2026-04-05 18:57:31,290 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 18:57:31,290 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 18:57:31,427 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 18:57:31,675 [INFO] [Dummy-5] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-a009b2d7-30e6-11f1-8ef3-00155d2b9fe2
+2026-04-05 18:57:33,530 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:57:33,605 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 18:57:33,707 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 18:57:33,707 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 18:57:33,711 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 18:57:34,341 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 18:57:34,346 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 18:57:34,352 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 18:57:35,089 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:57:35,090 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:57:35,090 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:57:36,448 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 18:57:36,542 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 18:57:37,407 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'home'
+2026-04-05 18:57:37,667 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 18:57:37,669 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 18:57:37,670 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 18:57:37,671 [ERROR] [MainThread] [root/widget_builder.py:111]: Failed to validate widget(s) due to invalid options  - home
+      menu_labels:
+      - Input should be a valid dictionary or instance of MenuLabelsConfig
+      shudown:
+      - Extra inputs are not permitted
+      
+2026-04-05 18:57:37,757 [INFO] [Dummy-5] [root/event_listener.py:55]: Created named pipe yasb-a3f7200f-30e6-11f1-a149-00155d2b9fe2
+2026-04-05 18:57:37,837 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 18:57:37,838 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 18:57:37,939 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 18:57:38,153 [INFO] [Dummy-5] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-a3f7200f-30e6-11f1-a149-00155d2b9fe2
+2026-04-05 18:57:48,505 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:57:48,520 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 18:57:48,625 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 18:57:48,626 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 18:57:48,637 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 18:57:49,186 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 18:57:49,191 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 18:57:49,194 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 18:57:49,895 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 18:57:49,896 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 18:57:49,897 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 18:57:51,221 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 18:57:51,302 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 18:57:52,371 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 18:57:52,372 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 18:57:52,373 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 18:57:52,376 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 18:57:52,376 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 18:57:52,525 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-acbad8e6-30e6-11f1-8513-00155d2b9fe2
+2026-04-05 18:57:52,599 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 18:57:52,887 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-acbad8e6-30e6-11f1-8513-00155d2b9fe2
+2026-04-05 18:58:15,515 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:58:15,546 [ERROR] [MainThread] [root/config.py:121]: The config file 'C:\Users\Weda\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+  home:
+    str:
+    - Input should be a valid string
+    dict[str,any]:
+    - Input should be a valid dictionary
+
+2026-04-05 18:58:44,110 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:58:49,265 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:58:49,285 [ERROR] [MainThread] [root/config.py:121]: The config file 'C:\Users\Weda\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+  home:
+    str:
+    - Input should be a valid string
+    dict[str,any]:
+    - Input should be a valid dictionary
+
+2026-04-05 18:59:09,198 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:59:26,874 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:59:26,892 [ERROR] [MainThread] [root/config.py:121]: The config file 'C:\Users\Weda\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- Input should be a valid dictionary
+home:
+- Extra inputs are not permitted
+
+2026-04-05 18:59:49,718 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 18:59:49,738 [ERROR] [MainThread] [root/config.py:121]: The config file 'C:\Users\Weda\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- Input should be a valid dictionary
+home:
+- Extra inputs are not permitted
+
+2026-04-05 19:00:02,674 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:00:02,689 [ERROR] [MainThread] [root/config.py:121]: The config file 'C:\Users\Weda\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+- Input should be a valid dictionary
+home:
+- Extra inputs are not permitted
+
+2026-04-05 19:00:13,169 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:00:13,188 [ERROR] [MainThread] [root/config.py:121]: The config file 'C:\Users\Weda\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+  home:
+    str:
+    - Input should be a valid string
+    dict[str,any]:
+    - Input should be a valid dictionary
+
+2026-04-05 19:00:31,765 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:00:46,664 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:00:48,108 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:00:48,122 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:00:48,236 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:00:48,236 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:00:48,247 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:00:48,837 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:00:48,847 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 19:00:48,854 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:00:49,720 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:00:49,721 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:00:49,722 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:00:51,177 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 19:00:51,268 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:00:52,173 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'home'
+2026-04-05 19:00:52,413 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:00:52,414 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:00:52,415 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 19:00:52,417 [ERROR] [MainThread] [root/widget_builder.py:111]: Failed to validate widget(s) due to invalid options  - home
+      menu_list:
+        4:
+        - Input should be a valid dictionary or instance of MenuItemConfig
+      
+2026-04-05 19:00:52,502 [INFO] [Dummy-5] [root/event_listener.py:55]: Created named pipe yasb-180aef72-30e7-11f1-a7f3-00155d2b9fe2
+2026-04-05 19:00:52,597 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:00:52,598 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:00:52,731 [ERROR] [MainThread] [root/tray.py:64]: Error loading config: while scanning a simple key
+  in "C:\Users\Weda\.config\yasb\config.yaml", line 287, column 1
+could not find expected ':'
+  in "C:\Users\Weda\.config\yasb\config.yaml", line 288, column 1
+2026-04-05 19:00:52,785 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:00:52,787 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:00:52,971 [INFO] [Dummy-5] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-180aef72-30e7-11f1-a7f3-00155d2b9fe2
+2026-04-05 19:00:53,447 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:00:53,549 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:00:53,550 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:00:53,563 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:00:54,664 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:00:54,676 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:00:54,718 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 19:00:54,743 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:00:54,745 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:00:54,745 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:00:54,746 [INFO] [MainThread] [root/main.py:46]: Waiting for previous YASB instance to exit...
+2026-04-05 19:00:54,997 [INFO] [MainThread] [root/main.py:72]: Previous instance exited, continuing startup.
+2026-04-05 19:00:56,619 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 19:00:56,757 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:00:58,121 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:00:58,122 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 19:00:58,123 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:00:58,126 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:00:58,127 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:00:58,369 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-1b71daa0-30e7-11f1-b6ab-00155d2b9fe2
+2026-04-05 19:00:58,436 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:00:58,764 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-1b71daa0-30e7-11f1-b6ab-00155d2b9fe2
+2026-04-05 19:01:03,164 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:01:38,024 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:01:38,059 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:01:38,170 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:01:38,171 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:01:38,183 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:01:38,757 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:01:38,764 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 19:01:38,777 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:01:39,654 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:01:39,657 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:01:39,660 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:01:41,010 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 19:01:41,056 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:01:42,237 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:01:42,238 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 19:01:42,238 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:01:42,242 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:01:42,243 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:01:42,381 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-35bd6783-30e7-11f1-a36a-00155d2b9fe2
+2026-04-05 19:01:42,448 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:01:42,789 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-35bd6783-30e7-11f1-a36a-00155d2b9fe2
+2026-04-05 19:02:08,025 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:02:08,087 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:02:08,198 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:02:08,198 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:02:08,208 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:02:08,659 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:02:08,661 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 19:02:08,667 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:02:09,254 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:02:09,258 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:02:09,259 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:02:10,402 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 19:02:10,498 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:02:11,423 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 19:02:11,425 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:02:11,425 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:02:11,427 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:02:11,428 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:02:11,537 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-47231b71-30e7-11f1-b523-00155d2b9fe2
+2026-04-05 19:02:11,591 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:02:11,886 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-47231b71-30e7-11f1-b523-00155d2b9fe2
+2026-04-05 19:02:23,885 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:02:23,959 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:02:24,068 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:02:24,069 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:02:24,085 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:02:24,685 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 19:02:24,690 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:02:24,694 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:02:25,092 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:02:25,094 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:02:25,096 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:02:26,226 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 19:02:26,305 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:02:27,144 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:02:27,144 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:02:27,144 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 19:02:27,148 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:02:27,149 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:02:27,149 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-5081a49d-30e7-11f1-a925-00155d2b9fe2
+2026-04-05 19:02:27,613 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-5081a49d-30e7-11f1-a925-00155d2b9fe2
+2026-04-05 19:02:27,628 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:02:54,126 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:02:54,158 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:02:54,261 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:02:54,262 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:02:54,270 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:02:54,709 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:02:54,716 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:02:54,721 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 19:02:55,399 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:02:55,402 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:02:55,402 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:02:56,528 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 19:02:56,597 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:02:57,674 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:02:57,675 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 19:02:57,676 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:02:57,677 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:02:57,678 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:02:57,909 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-62b44993-30e7-11f1-bf8d-00155d2b9fe2
+2026-04-05 19:02:57,984 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:02:58,247 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-62b44993-30e7-11f1-bf8d-00155d2b9fe2
+2026-04-05 19:03:09,358 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:03:09,397 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:03:09,510 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:03:09,511 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:03:09,516 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:03:10,020 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:03:10,026 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 19:03:10,031 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:03:10,432 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:03:10,432 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:03:10,433 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:03:11,642 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 19:03:11,711 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:03:12,691 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:03:12,692 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:03:12,692 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 19:03:12,696 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:03:12,697 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:03:13,056 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-6ba78d1b-30e7-11f1-bd9c-00155d2b9fe2
+2026-04-05 19:03:13,107 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:03:13,317 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-6ba78d1b-30e7-11f1-bd9c-00155d2b9fe2
+2026-04-05 19:03:18,958 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:03:19,027 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:03:19,140 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:03:19,140 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:03:19,156 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:03:19,643 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:03:19,647 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:03:19,650 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 19:03:20,324 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:03:20,327 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:03:20,329 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:03:21,781 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 19:03:21,856 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:03:22,791 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 19:03:22,791 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:03:22,792 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:03:22,796 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:03:22,796 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:03:22,917 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-71acb5a3-30e7-11f1-aa27-00155d2b9fe2
+2026-04-05 19:03:22,970 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:03:23,229 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-71acb5a3-30e7-11f1-aa27-00155d2b9fe2
+2026-04-05 19:03:33,392 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:03:33,410 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:03:33,515 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:03:33,515 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:03:33,524 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:03:33,982 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 19:03:33,989 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:03:33,991 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:03:34,490 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:03:34,492 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:03:34,493 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:03:35,847 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 19:03:35,917 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:03:36,779 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:03:36,780 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 19:03:36,780 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:03:36,781 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:03:36,782 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:03:36,782 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-7a0332a3-30e7-11f1-a0b6-00155d2b9fe2
+2026-04-05 19:03:36,921 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:03:37,218 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-7a0332a3-30e7-11f1-a0b6-00155d2b9fe2
+2026-04-05 19:03:51,079 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:03:51,117 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:03:51,220 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:03:51,222 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:03:51,233 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:03:51,688 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:03:51,689 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 19:03:51,690 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:03:52,061 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:03:52,062 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:03:52,062 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:03:53,146 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 19:03:53,210 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:03:54,349 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 19:03:54,351 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:03:54,352 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:03:54,353 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:03:54,353 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:03:54,586 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-847c5860-30e7-11f1-80e0-00155d2b9fe2
+2026-04-05 19:03:54,648 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:03:55,019 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-847c5860-30e7-11f1-80e0-00155d2b9fe2
+2026-04-05 19:04:17,289 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:04:17,317 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:04:17,429 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:04:17,429 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:04:17,443 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:04:17,876 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 19:04:17,883 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:04:17,885 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:04:18,285 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:04:18,285 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:04:18,286 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:04:19,443 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 19:04:19,501 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:04:20,584 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 19:04:20,585 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:04:20,585 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:04:20,587 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:04:20,587 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:04:20,808 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-941f458d-30e7-11f1-978d-00155d2b9fe2
+2026-04-05 19:04:20,864 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:04:21,192 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-941f458d-30e7-11f1-978d-00155d2b9fe2
+2026-04-05 19:04:54,402 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:04:54,424 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:04:54,537 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:04:54,538 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:04:54,549 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:04:55,014 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 19:04:55,020 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:04:55,023 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:04:55,290 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:04:55,292 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:04:55,292 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:04:56,701 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 19:04:56,771 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:04:58,076 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:04:58,077 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 19:04:58,078 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:04:58,080 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:04:58,080 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:04:58,326 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-aa784376-30e7-11f1-96ac-00155d2b9fe2
+2026-04-05 19:04:58,378 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:04:58,663 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-aa784376-30e7-11f1-96ac-00155d2b9fe2
+2026-04-05 19:06:26,641 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:06:26,698 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:06:26,807 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:06:26,807 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:06:26,815 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:06:27,287 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:06:27,289 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 19:06:27,291 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:06:27,740 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:06:27,741 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:06:27,742 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:06:29,089 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 19:06:29,145 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:06:30,284 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:06:30,286 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 19:06:30,287 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:06:30,291 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:06:30,292 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:06:30,519 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-e16e69cd-30e7-11f1-bce2-00155d2b9fe2
+2026-04-05 19:06:30,584 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:06:30,860 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-e16e69cd-30e7-11f1-bce2-00155d2b9fe2
+2026-04-05 19:06:48,606 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:06:48,637 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:06:48,747 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:06:48,748 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:06:48,752 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:06:49,249 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:06:49,257 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 19:06:49,265 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:06:49,637 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:06:49,637 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:06:49,638 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:06:50,892 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 19:06:50,954 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:06:52,233 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 19:06:52,235 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:06:52,236 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:06:52,238 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:06:52,238 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:06:52,453 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-ee835750-30e7-11f1-89f8-00155d2b9fe2
+2026-04-05 19:06:52,505 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:06:52,787 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-ee835750-30e7-11f1-89f8-00155d2b9fe2
+2026-04-05 19:07:15,718 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:07:15,775 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:07:15,885 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:07:15,886 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:07:15,896 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:07:16,387 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 19:07:16,390 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:07:16,396 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:07:16,643 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:07:16,645 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:07:16,645 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:07:17,966 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-04-05 19:07:18,044 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:07:19,003 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:07:19,004 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:07:19,004 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-05 19:07:19,005 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:07:19,005 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:07:19,133 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-fe77d545-30e7-11f1-b4b8-00155d2b9fe2
+2026-04-05 19:07:19,222 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:07:19,519 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-fe77d545-30e7-11f1-b4b8-00155d2b9fe2
+2026-04-05 19:11:33,288 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:11:33,293 [ERROR] [MainThread] [root/bar_manager.py:72]: Error loading config: while scanning a simple key
+  in "C:\Users\Weda\.config\yasb\config.yaml", line 67, column 7
+could not find expected ':'
+  in "C:\Users\Weda\.config\yasb\config.yaml", line 68, column 5
+2026-04-05 19:11:35,154 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:11:35,160 [ERROR] [MainThread] [root/bar_manager.py:72]: Error loading config: while scanning a simple key
+  in "C:\Users\Weda\.config\yasb\config.yaml", line 67, column 7
+could not find expected ':'
+  in "C:\Users\Weda\.config\yasb\config.yaml", line 68, column 5
+2026-04-05 19:11:44,493 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:11:44,498 [ERROR] [MainThread] [root/bar_manager.py:72]: Error loading config: while scanning a simple key
+  in "C:\Users\Weda\.config\yasb\config.yaml", line 67, column 7
+could not find expected ':'
+  in "C:\Users\Weda\.config\yasb\config.yaml", line 68, column 19
+2026-04-05 19:11:47,193 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:11:48,347 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:15:17,118 [DEBUG] [Thread-5] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:15:17,143 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:15:17,245 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:15:17,246 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:15:17,259 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:15:17,810 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:15:17,816 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:15:17,821 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-05 19:15:18,027 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:15:18,029 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:15:18,029 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:15:19,567 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:15:20,348 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'weather'
+2026-04-05 19:15:20,446 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:15:20,448 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:15:20,448 [ERROR] [MainThread] [root/widget_builder.py:111]: Failed to validate widget(s) due to invalid options  - weather
+      icons:
+        snowyIcyDay:
+        - Extra inputs are not permitted
+        snowyIcyNight:
+        - Extra inputs are not permitted
+      
+2026-04-05 19:15:20,451 [INFO] [Dummy-4] [root/event_listener.py:55]: Created named pipe yasb-1d6e3b0f-30e9-11f1-a973-00155d2b9fe2
+2026-04-05 19:15:20,515 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:15:20,516 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:15:20,735 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:15:21,008 [INFO] [Dummy-4] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-1d6e3b0f-30e9-11f1-a973-00155d2b9fe2
+2026-04-05 19:17:06,708 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:17:15,691 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:18:14,651 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:18:14,666 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:18:14,780 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:18:14,781 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:18:14,793 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:18:15,246 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:18:15,250 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:18:15,621 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:18:15,624 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:18:15,625 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:18:17,330 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:18:17,860 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'weather'
+2026-04-05 19:18:18,061 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:18:18,063 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:18:18,064 [ERROR] [MainThread] [root/widget_builder.py:111]: Failed to validate widget(s) due to invalid options  - weather
+      icons:
+        snowyIcyDay:
+        - Extra inputs are not permitted
+        snowyIcyNight:
+        - Extra inputs are not permitted
+      
+2026-04-05 19:18:18,109 [INFO] [Dummy-4] [root/event_listener.py:55]: Created named pipe yasb-874c2a52-30e9-11f1-96d9-00155d2b9fe2
+2026-04-05 19:18:18,165 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:18:18,165 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:18:18,246 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:18:18,333 [INFO] [Dummy-4] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-874c2a52-30e9-11f1-96d9-00155d2b9fe2
+2026-04-05 19:18:36,847 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:18:36,890 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:18:37,000 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:18:37,001 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:18:37,007 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:18:37,487 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:18:37,493 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:18:37,865 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:18:37,867 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:18:37,868 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:18:39,171 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:18:39,702 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'weather'
+2026-04-05 19:18:39,751 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:18:39,752 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:18:39,753 [ERROR] [MainThread] [root/widget_builder.py:111]: Failed to validate widget(s) due to invalid options  - weather
+      icons:
+        snowyIcyDay:
+        - Extra inputs are not permitted
+        snowyIcyNight:
+        - Extra inputs are not permitted
+      
+2026-04-05 19:18:39,790 [INFO] [Dummy-4] [root/event_listener.py:55]: Created named pipe yasb-9439d5de-30e9-11f1-8812-00155d2b9fe2
+2026-04-05 19:18:39,807 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:18:39,807 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:18:39,883 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:18:40,047 [INFO] [Dummy-4] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-9439d5de-30e9-11f1-8812-00155d2b9fe2
+2026-04-05 19:18:41,112 [DEBUG] [Thread-6] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:18:41,158 [DEBUG] [Thread-6] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:18:41,674 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:18:41,776 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:18:41,777 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:18:41,788 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:18:42,614 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:18:42,635 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:18:42,820 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:18:42,821 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:18:42,821 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:18:44,441 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:18:44,886 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'komorebi_workspaces'
+2026-04-05 19:18:44,953 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'weather'
+2026-04-05 19:18:45,041 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:18:45,041 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:18:45,042 [ERROR] [MainThread] [root/widget_builder.py:111]: Failed to validate widget(s) due to invalid options  - komorebi_workspaces
+      container_padding:
+        top:
+        - Input should be a valid integer
+      
+ - weather
+      icons:
+        snowyIcyDay:
+        - Extra inputs are not permitted
+        snowyIcyNight:
+        - Extra inputs are not permitted
+      
+2026-04-05 19:18:45,045 [INFO] [Dummy-4] [root/event_listener.py:55]: Created named pipe yasb-9760de65-30e9-11f1-ac1f-00155d2b9fe2
+2026-04-05 19:18:45,099 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:18:45,099 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:18:45,215 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:18:45,561 [INFO] [Dummy-4] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-9760de65-30e9-11f1-ac1f-00155d2b9fe2
+2026-04-05 19:18:46,925 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:18:47,009 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:18:47,110 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:18:47,110 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:18:47,115 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:18:47,821 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:18:47,839 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:18:48,246 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:18:48,247 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:18:48,248 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:18:49,604 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:18:50,078 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'weather'
+2026-04-05 19:18:50,162 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:18:50,163 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:18:50,164 [ERROR] [MainThread] [root/widget_builder.py:111]: Failed to validate widget(s) due to invalid options  - weather
+      icons:
+        snowyIcyDay:
+        - Extra inputs are not permitted
+        snowyIcyNight:
+        - Extra inputs are not permitted
+      
+2026-04-05 19:18:50,168 [INFO] [Dummy-4] [root/event_listener.py:55]: Created named pipe yasb-9a6e7e75-30e9-11f1-8038-00155d2b9fe2
+2026-04-05 19:18:50,246 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:18:50,246 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:18:50,335 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:18:50,495 [INFO] [Dummy-4] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-9a6e7e75-30e9-11f1-8038-00155d2b9fe2
+2026-04-05 19:18:51,120 [ERROR] [Dummy-4] [root/client.py:42]: Komorebi state query timed out in 0.5 seconds
+2026-04-05 19:18:51,122 [ERROR] [Dummy-4] [root/event_listener.py:153]: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 2 second... Is komorebi online and its binaries added to $PATH?
+2026-04-05 19:19:09,603 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 19:19:09,644 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 19:19:09,748 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 19:19:09,749 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 19:19:09,760 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 19:19:10,337 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 19:19:10,361 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 19:19:10,525 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 19:19:10,525 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 19:19:10,526 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 19:19:11,803 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 19:19:12,334 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'weather'
+2026-04-05 19:19:12,438 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 19:19:12,439 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 19:19:12,440 [ERROR] [MainThread] [root/widget_builder.py:111]: Failed to validate widget(s) due to invalid options  - weather
+      icons:
+        snowyIcyDay:
+        - Extra inputs are not permitted
+        snowyIcyNight:
+        - Extra inputs are not permitted
+      
+2026-04-05 19:19:12,443 [INFO] [Dummy-4] [root/event_listener.py:55]: Created named pipe yasb-a7b562f1-30e9-11f1-ae74-00155d2b9fe2
+2026-04-05 19:19:12,488 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 19:19:12,489 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 19:19:12,558 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 19:19:12,702 [INFO] [Dummy-4] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-a7b562f1-30e9-11f1-ae74-00155d2b9fe2
+2026-04-05 19:19:13,299 [ERROR] [Dummy-4] [root/client.py:42]: Komorebi state query timed out in 0.5 seconds
+2026-04-05 19:19:13,300 [ERROR] [Dummy-4] [root/event_listener.py:153]: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 2 second... Is komorebi online and its binaries added to $PATH?
+2026-04-05 19:19:57,878 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:20:43,911 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:20:49,651 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:20:51,547 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:20:54,038 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:20:56,098 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:20:57,991 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:20:59,873 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:21:12,450 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:21:31,273 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:21:36,873 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:22:52,051 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:23:11,440 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:23:37,794 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:24:19,910 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:24:36,568 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:25:37,812 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:25:48,257 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:26:01,648 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:26:21,840 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:26:41,940 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:27:02,132 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:27:07,281 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:27:49,262 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:28:01,983 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:28:11,841 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:28:26,905 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:28:31,079 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:28:38,423 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:28:43,286 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:28:47,438 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:29:00,436 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:29:18,522 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:29:21,691 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:29:25,092 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:29:36,916 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:29:47,037 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:30:03,454 [DEBUG] [Thread-5] [root/watcher.py:84]: Stylesheet modified: c:\users\weda\.config\yasb\styles.css
+2026-04-05 19:35:30,587 [WARNING] [Dummy-4] [root/event_listener.py:96]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2026-04-05 19:35:30,588 [INFO] [Dummy-4] [root/event_listener.py:108]: Attempting to reconnect to Komorebi...
+2026-04-05 19:35:33,607 [INFO] [Dummy-4] [root/event_listener.py:55]: Created named pipe yasb-a7b562f1-30e9-11f1-ae74-00155d2b9fe2
+2026-04-05 19:36:45,146 [INFO] [Dummy-4] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-a7b562f1-30e9-11f1-ae74-00155d2b9fe2
+2026-04-05 20:47:51,904 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 20:47:51,906 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 20:47:51,907 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 20:47:53,206 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 20:47:53,484 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'weather'
+2026-04-05 20:47:54,009 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 20:47:54,010 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 20:47:54,010 [ERROR] [MainThread] [root/widget_builder.py:111]: Failed to validate widget(s) due to invalid options  - weather
+      icons:
+        snowyIcyDay:
+        - Extra inputs are not permitted
+        snowyIcyNight:
+        - Extra inputs are not permitted
+      
+2026-04-05 20:47:54,017 [INFO] [Dummy-4] [root/event_listener.py:55]: Created named pipe yasb-0b9c9f68-30f6-11f1-bdd3-00155d2b9fe2
+2026-04-05 20:47:54,974 [INFO] [Dummy-4] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-0b9c9f68-30f6-11f1-bdd3-00155d2b9fe2
+2026-04-05 20:47:55,020 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 20:47:55,020 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 20:47:55,187 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 20:47:55,510 [ERROR] [Dummy-4] [root/client.py:42]: Komorebi state query timed out in 0.5 seconds
+2026-04-05 20:47:55,510 [ERROR] [Dummy-4] [root/event_listener.py:153]: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 2 second... Is komorebi online and its binaries added to $PATH?
+2026-04-05 20:48:21,807 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 20:48:21,843 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-05 20:48:21,845 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 20:48:21,875 [DEBUG] [Thread-9] [root/watcher.py:90]: Config file modified: c:\users\weda\.config\yasb\config.yaml
+2026-04-05 20:48:21,945 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 20:48:21,946 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 20:48:21,959 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-05 20:48:22,849 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 20:48:22,855 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 20:48:23,099 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 20:48:23,102 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 20:48:23,103 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 20:48:25,351 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 20:48:26,023 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 20:48:26,024 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 20:48:26,026 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 20:48:26,027 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 20:48:26,084 [INFO] [Dummy-6] [root/event_listener.py:55]: Created named pipe yasb-1eb1977a-30f6-11f1-bd4f-00155d2b9fe2
+2026-04-05 20:48:26,136 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 20:48:26,421 [INFO] [Dummy-6] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-1eb1977a-30f6-11f1-bd4f-00155d2b9fe2
+2026-04-05 20:48:28,373 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-05 20:48:28.373189
+2026-04-05 20:58:25,830 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-05 20:58:25.830787
+2026-04-05 21:08:26,459 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-05 21:08:26.459524
+2026-04-05 21:18:27,016 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-05 21:18:27.016746
+2026-04-05 21:28:25,832 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-05 21:28:25.831875
+2026-04-05 21:38:26,556 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-05 21:38:26.556290
+2026-04-05 21:48:25,770 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-05 21:48:25.769858
+2026-04-05 21:51:56,286 [INFO] [MainThread] [root/controller.py:43]: Exiting Application...
+2026-04-05 21:51:56,401 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 21:51:56,401 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 21:51:56,777 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 21:51:56,780 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 21:54:04,525 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 21:54:04,526 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 21:54:04,527 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 21:54:05,685 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 21:54:06,046 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 21:54:06,047 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 21:54:06,049 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 21:54:06,049 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 21:54:06,429 [INFO] [Dummy-6] [root/event_listener.py:55]: Created named pipe yasb-4b219020-30ff-11f1-a219-87cfc7f1cfbd
+2026-04-05 21:54:06,448 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 21:54:06,994 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-05 21:54:06.994447
+2026-04-05 21:59:08,786 [INFO] [MainThread] [root/controller.py:21]: Reloading Bar from context menu...
+2026-04-05 21:59:08,897 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 21:59:08,897 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 21:59:09,285 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 21:59:09,294 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-05 21:59:09,574 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 21:59:09,574 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 21:59:09,575 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 21:59:09,575 [INFO] [MainThread] [root/main.py:46]: Waiting for previous YASB instance to exit...
+2026-04-05 21:59:19,593 [ERROR] [MainThread] [root/main.py:69]: Timeout waiting for previous instance. Aborting start.
+2026-04-05 22:00:17,917 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-05 22:00:17,918 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-05 22:00:17,918 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-05 22:00:18,394 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-05 22:00:18,565 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-05 22:00:18,565 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-05 22:00:18,566 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-05 22:00:18,566 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-05 22:00:18,566 [INFO] [Dummy-6] [root/event_listener.py:55]: Created named pipe yasb-292b3d2d-3100-11f1-bd5f-87cfc7f1cfbd
+2026-04-05 22:00:18,590 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-05 22:00:18,753 [INFO] [Dummy-6] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-292b3d2d-3100-11f1-bd5f-87cfc7f1cfbd
+2026-04-05 22:00:20,117 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-05 22:00:20.117635
+2026-04-05 22:10:19,031 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-05 22:10:19.031005
+2026-04-05 22:20:19,083 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-05 22:20:19.083039
+2026-04-05 22:22:04,432 [INFO] [MainThread] [root/controller.py:43]: Exiting Application...
+2026-04-05 22:22:04,539 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-05 22:22:04,539 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-05 22:22:04,831 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping SystemEventListener...
+2026-04-05 22:22:04,835 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-06 08:41:24,548 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-06 08:41:24,549 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-06 08:41:24,549 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-06 08:41:25,296 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-06 08:41:25,602 [INFO] [MainThread] [root/bar_manager.py:95]: Starting SystemEventListener...
+2026-04-06 08:41:25,602 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-06 08:41:25,603 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\weda\.config\yasb
+2026-04-06 08:41:25,603 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-06 08:41:25,634 [INFO] [Dummy-6] [root/event_listener.py:55]: Created named pipe yasb-b94f5128-3159-11f1-8f51-87cfc7f1cfbd
+2026-04-06 08:41:25,649 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-06 08:41:26,312 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-06 08:41:26.312117
+2026-04-06 08:42:01,296 [INFO] [Dummy-6] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-b94f5128-3159-11f1-8f51-87cfc7f1cfbd
+2026-04-06 08:51:25,947 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-06 08:51:25.947774
+2026-04-06 09:01:25,556 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-06 09:01:25.556009
+2026-04-06 09:11:25,635 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-06 09:11:25.635267
+2026-04-06 09:21:25,781 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-06 09:21:25.781439
+2026-04-06 09:31:25,612 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-06 09:31:25.612721
+2026-04-06 09:41:25,615 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-06 09:41:25.615658
+2026-04-06 09:51:26,003 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-06 09:51:26.003166
+2026-04-06 10:01:26,439 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-06 10:01:26.439207
+2026-04-06 10:11:25,756 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-06 10:11:25.756138
+2026-04-06 10:21:25,748 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-06 10:21:25.748138
+2026-04-06 10:31:25,877 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-06 10:31:25.877415
+2026-04-06 10:41:25,970 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-06 10:41:25.969999

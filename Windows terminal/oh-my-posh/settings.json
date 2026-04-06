@@ -1,0 +1,140 @@
+{
+    "$help": "https://aka.ms/terminal-documentation",
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "actions": [],
+    "alwaysShowTabs": false,
+    "copyFormatting": "none",
+    "copyOnSelect": false,
+    "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+    "focusFollowMouse": true,
+    "keybindings": 
+    [
+        {
+            "id": "Terminal.CopyToClipboard",
+            "keys": "ctrl+c"
+        },
+        {
+            "id": "Terminal.Quit",
+            "keys": "ctrl+shift+x"
+        },
+        {
+            "id": "Terminal.PasteFromClipboard",
+            "keys": "ctrl+v"
+        },
+        {
+            "id": "Terminal.DuplicatePaneAuto",
+            "keys": "alt+shift+d"
+        }
+    ],
+    "launchMode": "focus",
+    "newTabMenu": 
+    [
+        {
+            "type": "remainingProfiles"
+        }
+    ],
+    "profiles": 
+    {
+        "defaults": 
+        {
+            "colorScheme": "Cisarua",
+            "experimental.retroTerminalEffect": false,
+            "font": 
+            {
+                "face": "DepartureMono Nerd Font",
+                "size": 12,
+            },
+            "opacity": 100,
+            "useAcrylic": false
+        },
+        "list": 
+        [
+            {
+                "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+                "cursorColor": null,
+                "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+                "hidden": false,
+                "name": "Windows PowerShell",
+                "tabTitle": "pwshlol"
+            },
+            {
+                "commandline": "%SystemRoot%\\System32\\cmd.exe",
+                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+                "hidden": false,
+                "name": "Command Prompt"
+            },
+            {
+                "guid": "{2fdde30f-589f-5644-b9aa-d53384dad7ac}",
+                "hidden": false,
+                "name": "Ubuntu",
+                "source": "Microsoft.WSL"
+            },
+            {
+                "guid": "{5dc7c0d6-9c14-50ad-90e3-d54c0ad6a808}",
+                "hidden": false,
+                "name": "Debian",
+                "source": "Microsoft.WSL"
+            },
+            {
+                "guid": "{7740c13d-ea35-59db-bf7e-ac18b2d8a995}",
+                "hidden": false,
+                "name": "kali-linux",
+                "source": "Microsoft.WSL"
+            }
+        ]
+    },
+    "schemes": 
+    [
+        {
+            "background": "#1F1F1F",
+            "black": "#67816B",
+            "blue": "#3F4C5C",
+            "brightBlack": "#67816B",
+            "brightBlue": "#3F4C5C",
+            "brightCyan": "#3F5C5B",
+            "brightGreen": "#7A9464",
+            "brightPurple": "#423560",
+            "brightRed": "#5C3F4C",
+            "brightWhite": "#F9F6EE",
+            "brightYellow": "#EBC17A",
+            "cursorColor": "#AFCAAF",
+            "cyan": "#3F5C5B",
+            "foreground": "#AFCAAF",
+            "green": "#7A9464",
+            "name": "Cisarua",
+            "purple": "#423560",
+            "red": "#5C3F4C",
+            "selectionBackground": "#F9F6EE",
+            "white": "#F9F6EE",
+            "yellow": "#EBC17A"
+        }
+    ],
+    "theme": "system",
+    "themes": 
+    [
+        {
+            "name": "Catppuccin Latte",
+            "tab": 
+            {
+                "background": "#EFF1F5FF",
+                "iconStyle": "default",
+                "showCloseButton": "always",
+                "unfocusedBackground": null
+            },
+            "tabRow": 
+            {
+                "background": "#E6E9EFFF",
+                "unfocusedBackground": "#DCE0E8FF"
+            },
+            "window": 
+            {
+                "applicationTheme": "light",
+                "experimental.rainbowFrame": false,
+                "frame": null,
+                "unfocusedFrame": null,
+                "useMica": false
+            }
+        }
+    ],
+    "useAcrylicInTabRow": true
+}
